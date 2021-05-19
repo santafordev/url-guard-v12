@@ -11,4 +11,4 @@ Sorunuz/Sıkıntınız olursa GitHub profilimdeki bağlantılardan bana ulaşabi
 
 3- <code>node main.js</code> yazarak çalıştırın.
 
-## https://github.com/barbecue tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
+## discord.gg/allahpower tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
